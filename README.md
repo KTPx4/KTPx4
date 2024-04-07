@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Mutil-Platform Developer
 - 📫 You can reach me by email: 'kieuthanhphat.work@gmail.com'
 - 😄 Pronouns: Phát
-- ⚡ Fun fact: Px4
+- ⚡ Fun fact: I like working alone in my room, it make me working productive
 
 <!---
 KTPx4/KTPx4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
