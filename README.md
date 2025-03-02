@@ -6,6 +6,7 @@ I'm a passionate developer who loves learning new technologies and exploring cre
 🌱 Currently learning and improving in **backend & mobile development**.  
 🤝 Open to collaborations and new opportunities.  
 ✨ Always looking for exciting challenges to tackle!  
+💼 Highly responsible in work, ensuring quality and efficiency in every project.  
 
 ---
 
@@ -16,7 +17,7 @@ _(Check out more in my repositories!)_
 
 ## 📫 Contact Me
 📧 Email: [kieuthanhphat.work@gmail.com](mailto:kieuthanhphat.work@gmail.com)  
-🔗 LinkedIn: [My profile](https://www.linkedin.com/in/kieuthanhphat/)  
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/kieuthanhphat/" target="_blank">My profile</a>  
 
 ---
 Thanks for visiting my profile! 🫶
