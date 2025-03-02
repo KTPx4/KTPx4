@@ -1,12 +1,23 @@
-- 👋 Hi, I’m Thành Phát
-- 👀 I’m interested in study new technology
-- 🌱 I’m currently learning Web and Mobile Application
-- 💞️ I’m looking to collaborate on Mutil-Platform Developer
-- 📫 You can reach me by email: 'kieuthanhphat.work@gmail.com'
-- 😄 Pronouns: Phát
-- ⚡ Fun fact: I like working alone in my room, it make me working productive
+# 👋 Hi there, I'm Thanh Phat!
 
-<!---
-KTPx4/KTPx4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💡 About Me
+I'm a passionate developer who loves learning new technologies and exploring creative solutions. My main focus is on **.NET, Node.js, and Android development**, but I'm always excited to dive into new languages and frameworks. I enjoy working on innovative projects, collaborating with others, and solving challenging problems.
+
+🌱 Currently learning and improving in **backend & mobile development**.  
+🤝 Open to collaborations and new opportunities.  
+✨ Always looking for exciting challenges to tackle!  
+
+---
+
+## 🚀 My Projects
+_(Check out more in my repositories!)_
+
+---
+
+## 📫 Contact Me
+📧 Email: [kieuthanhphat.work@gmail.com](mailto:kieuthanhphat.work@gmail.com)  
+🔗 LinkedIn: [My profile](https://www.linkedin.com/in/kieuthanhphat/)  
+
+---
+Thanks for visiting my profile! 🫶
+
