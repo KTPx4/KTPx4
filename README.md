@@ -62,18 +62,21 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KTPx4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KTPx4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KTPx4&theme=tokyonight" alt="Profile Details" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KTPx4&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KTPx4&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KTPx4&theme=tokyonight&utcOffset=7" alt="Productive Time" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KTPx4&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
 <p align="center">
-  <i>"Automate the predictable, so you can focus on the exceptional."</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Automate+the+predictable...;...so+you+can+focus+on+the+exceptional!;print(%22Hello+World!%22)" alt="Typing SVG" />
 </p>
