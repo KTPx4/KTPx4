@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on a **full-stack e-commerce platform** for BarknBowl and building scalable architectures.
 - 🌱 I’m constantly learning and diving deep into **Kubernetes (K8s)**, **Cloud Infrastructure (AWS)**, and **DevOps best practices**.
-- 👯 I’m actively involved with the **AWS Study Group** as a DevOps & Full-Stack Developer, helping others learn cloud computing.
+- 📚 I’m continuously developing my DevOps skills and expanding my knowledge of cloud computing through hands-on practice and self-learning.
 - ⚡ Fun fact: I love bridging the gap between clean code (Java/Angular/Next.js) and robust infrastructure.
 - 💬 Ask me about: **Spring Boot, React/Next.js, CI/CD pipelines, Docker, Kubernetes, and Linux servers**.
 
